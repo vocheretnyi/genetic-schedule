@@ -20,8 +20,11 @@ const size_t EVOLUTION_MAX_ITERATIONS = 5000000;
 
 ###Example of the output:
 
-The output is consist of number of evolve iterations and the found schedule.
+The output is consist of number of evolve iterations and the generated schedule.
 
-![](images/monday_output.png)
-![](images/tuesday_output.png)
+Example of the part of the generated output:
+
+Monday                        |  Tuesday
+:----------------------------:|:---------------------------------:
+![](images/monday_output.png) |  ![](images/tuesday_output.png)
 
