@@ -18,7 +18,7 @@ const size_t POPULATION_SIZE = 50;
 const size_t EVOLUTION_MAX_ITERATIONS = 5000000;
 ```
 
-###Example of the output:
+### Example of the output:
 
 The output is consist of number of evolve iterations and the generated schedule.
 
